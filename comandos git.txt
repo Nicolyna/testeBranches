@@ -1,0 +1,1 @@
+git revert -m 1 <ID_DO_COMMIT_MERGE>
